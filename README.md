@@ -1,4 +1,7 @@
 # Pokemon Gym
+
+## https://mewtwo2.github.io/pokemon-gym/
+
 This is a group project that was made in a day.
 
 The idea is that there are three trainers in a gym and each trainer has three pokemon.
